@@ -1,0 +1,16 @@
+1. In my opinion, the fix 2 (the Central Limit Theorem) is the
+closed to satisfying the assumptions.
+
+2. Original T-test: assume the distribution is normal, and ask
+how unusual it was to get the data we got. According to the
+answer to decide if we can assume it is normal distribution
+Transformed data T-test: run data through some function that
+preserves the stuff. Transforming is generally most useful when
+we have a very skewed distribution
+
+3. In my opinion, the fix 1 (transforming data) can get a better
+answer. Because for the fix 3, it already has changed the question.
+Compared with fix 1, the fix 2 can get closed to the satisfying
+assumptions by using different functions.
+
+4. In weekday, there are more Reddit comments posted in Canada.
